@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on React Projects. 
 <!--  - 🤔 I’m looking for help with ...-->
 <!--  - 💬 Ask me about ...-->
-- 📫 How to reach me: ...-->
+<!--  - 📫 How to reach me: ... -->
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: ...
 -->
