@@ -19,9 +19,12 @@
 
 
 
-## My stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karenbstewart&show_icons=true&locale=en&layout=compact" alt="karenbstewart" /></p>
+### My stats:
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=karenbstewart&show_icons=true&locale=en&layout=compact&langs_count=8" alt="karenbstewart" /></p>
 
  <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karenbstewart&" alt="karenbstewart" /></p> -->
+
+
+
 
 
