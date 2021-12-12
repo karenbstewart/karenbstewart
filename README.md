@@ -17,7 +17,5 @@
 
 
 
-https://github.com/karenbstewart/karenbstewart/blob/main/images/React_Icon.png
-https://github.com/karenbstewart/karenbstewart/blob/main/images/Spring_Icon.png
-https://github.com/karenbstewart/karenbstewart/blob/main/images/jsExpress_Icon.png
+
 
